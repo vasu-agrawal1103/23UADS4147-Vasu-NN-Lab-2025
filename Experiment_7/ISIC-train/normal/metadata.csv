@@ -1,0 +1,51 @@
+isic_id,attribution,copyright_license,anatom_site_general,anatom_site_special,diagnosis_1,diagnosis_2,diagnosis_3,diagnosis_4,diagnosis_5,diagnosis_confirm_type,image_type,melanocytic,patient_id
+ISIC_0091478,Imperial College London,CC-BY,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,dermoscopic,False,IP_7775869
+ISIC_0274823,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_1686140
+ISIC_0280942,Imperial College London,CC-BY,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,dermoscopic,False,IP_7321802
+ISIC_0419120,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_6879218
+ISIC_0457448,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, NOS, Junctional",,,dermoscopic,True,IP_7822244
+ISIC_0622623,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, NOS, Dermal",,,dermoscopic,True,IP_9117614
+ISIC_0804620,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_8347844
+ISIC_0937941,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_1304620
+ISIC_1145025,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, NOS, Dermal",,,dermoscopic,True,IP_4419536
+ISIC_1261918,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_4920247
+ISIC_1638760,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_0162666
+ISIC_1952485,Imperial College London,CC-BY,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, NOS, Junctional",,,dermoscopic,True,IP_9682411
+ISIC_2041221,Imperial College London,CC-BY,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, NOS, Junctional",,,dermoscopic,True,IP_0529020
+ISIC_2290741,Imperial College London,CC-BY,,,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Melanoma in situ, Lentigo maligna type",,histopathology,dermoscopic,True,IP_7031883
+ISIC_2401810,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_6973210
+ISIC_2727993,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_7289197
+ISIC_3080313,Imperial College London,CC-BY,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_5865708
+ISIC_3272056,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, NOS, Junctional",,,dermoscopic,True,IP_0027318
+ISIC_3280049,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_7593964
+ISIC_3452964,Imperial College London,CC-BY,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,dermoscopic,False,IP_4559294
+ISIC_3679941,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_9709008
+ISIC_3736228,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_2755907
+ISIC_3951556,Imperial College London,CC-BY,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,dermoscopic,False,IP_5463137
+ISIC_4154987,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, NOS, Junctional",,,dermoscopic,True,IP_9712606
+ISIC_4197044,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, NOS, Dermal",,,dermoscopic,True,IP_1047199
+ISIC_4408332,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_6307582
+ISIC_4551898,Imperial College London,CC-BY,,,Benign,Benign epidermal proliferations,Solar lentigo,,,,dermoscopic,True,IP_5488687
+ISIC_5494388,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, NOS, Dermal",,,dermoscopic,True,IP_4860932
+ISIC_5536250,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_6929103
+ISIC_5642921,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, NOS, Junctional",,,dermoscopic,True,IP_9711675
+ISIC_6133338,Imperial College London,CC-BY,,,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Melanoma in situ, Lentigo maligna type",,histopathology,dermoscopic,True,IP_7335425
+ISIC_6147365,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_1699549
+ISIC_6194977,Imperial College London,CC-BY,palms/soles,acral NOS,Benign,Benign melanocytic proliferations,Nevus,"Nevus, NOS, Junctional",,,dermoscopic,True,IP_7187330
+ISIC_6352580,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_3022059
+ISIC_6462749,Imperial College London,CC-BY,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,dermoscopic,False,IP_4060672
+ISIC_6477584,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_6530867
+ISIC_6684515,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_4469842
+ISIC_6685300,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_5938175
+ISIC_6912745,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_1694008
+ISIC_6921929,Imperial College London,CC-BY,,,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,,,,dermoscopic,False,IP_3753605
+ISIC_7102143,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_2528936
+ISIC_7600751,Imperial College London,CC-BY,,,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,,,,dermoscopic,False,IP_3094417
+ISIC_7682448,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_1699549
+ISIC_7801521,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_1213097
+ISIC_7899387,Imperial College London,CC-BY,,,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",,,histopathology,dermoscopic,True,IP_9873903
+ISIC_8270449,Imperial College London,CC-BY,,,Benign,Benign epidermal proliferations,Seborrheic keratosis,,,,dermoscopic,False,IP_1923865
+ISIC_8774720,Imperial College London,CC-BY,,,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,,,histopathology,dermoscopic,False,IP_4787388
+ISIC_8889502,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, NOS, Compound",,,dermoscopic,True,IP_1812866
+ISIC_9583479,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Dysplastic",,dermoscopic,True,IP_8431469
+ISIC_9711093,Imperial College London,CC-BY,,,Benign,Benign melanocytic proliferations,Nevus,"Nevus, NOS, Junctional",,,dermoscopic,True,IP_5661199
