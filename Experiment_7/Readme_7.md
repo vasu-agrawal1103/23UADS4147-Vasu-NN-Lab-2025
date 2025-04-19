@@ -46,7 +46,6 @@ Evaluation:
 The training loss and accuracy are plotted.
 
 The model is evaluated using a confusion matrix and accuracy metrics.
-
 The trained model is saved to disk for future use.
 
 Performance Evaluation:

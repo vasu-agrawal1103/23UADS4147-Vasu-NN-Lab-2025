@@ -13,10 +13,6 @@ Output Layer: Contains 10 neurons corresponding to the 10 digit classes, with a 
 The network is trained using categorical cross-entropy loss and optimized using Adam Optimizer. The learning rate is set to 0.01, and the model is trained for 50 epochs with a batch size of 10.
 
 
-Python Implementation:
-in file exp4.ipynb
-
-
 Performance Evaluation:
 
 Accuracy: The model's accuracy is evaluated for different activation functions and hidden layer sizes.

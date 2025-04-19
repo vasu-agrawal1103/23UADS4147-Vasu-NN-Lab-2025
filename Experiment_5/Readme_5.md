@@ -13,8 +13,6 @@ Regularization: L2 regularization (0.0001 or 0.001)
 Batch Size: 32 or 64
 Optimization Algorithm: Adam or SGD
 
-Python Implementation:
-in exp5.ipynb
 
 Performance Evaluation:
 Accuracy: The model performance varied based on the hyperparameters. Generally, Adam optimizer outperformed SGD, and larger filter sizes with moderate regularization performed better.
